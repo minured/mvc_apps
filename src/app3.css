@@ -11,5 +11,5 @@
 }
 
 #app3 .square.active {
-    transform: translateX(200%);
+    transform: translateX(15vw);
 }
