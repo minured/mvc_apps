@@ -1,0 +1,12 @@
+{
+  "name": "mvc1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
